@@ -31,7 +31,7 @@ Dessa forma, a identidade visual busca unir **tecnologia, saúde e cuidado**, at
 <!-- Adicione aqui a imagem da tela inicial -->
 
 <p align="center">
-  <img src="images/telasplash.png" width="250">
+  <img src="images/Telasplash.png" width="250">
 </p>
 
 ---
