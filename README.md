@@ -68,7 +68,7 @@ Dessa forma, a identidade visual busca unir **tecnologia, saúde e cuidado**, at
 
 ---
 
-##Protótipo no Figma
+## Protótipo no Figma
 
 O design e o protótipo das telas do aplicativo foram desenvolvidos no **Figma**.
 
